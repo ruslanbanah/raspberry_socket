@@ -1,5 +1,7 @@
-##RaspberyPI control via SocketIO
+##RaspberryPI control via SocketIO
 
-#####Set up config file: config.json 
-```yarn install```
-```yarn start```
+1. Set up config file: _config.json_
+2. Install dependency
+* ```yarn install```
+3. Start server
+* ```yarn start```
