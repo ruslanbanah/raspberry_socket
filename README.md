@@ -1,6 +1,6 @@
 # RaspberryPI control via SocketIO
 
-###Getting Started
+### Getting Started
 1. Set up config file: _config.json_
 2. Install dependency
 * ```yarn install```
