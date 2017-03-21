@@ -15,3 +15,6 @@
 ```
 bash ls /dev | grep ttyACM
 ```
+### Scheme :
+![Image of Yaktocat](https://raw.githubusercontent.com/ruslanbanah/raspberry_socket/master/images/scheme.jpg)
+![Image of Yaktocat](https://raw.githubusercontent.com/ruslanbanah/raspberry_socket/master/images/board.jpg)
